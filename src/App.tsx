@@ -20,6 +20,9 @@ function App() {
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
+          <p>
+            CI/CD pipeline deployed to S3 and CloudFront por Daniel
+          </p>
         </div>
         <button
           className="counter"
